@@ -1,0 +1,53 @@
+# Core Deep Learning Framework
+torch
+torchvision
+torchaudio
+
+# Transformers and Model Libraries
+transformers
+accelerate
+peft
+bitsandbytes
+
+# Unsloth for Efficient Training
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+
+# Training Libraries
+trl
+datasets
+sentencepiece
+protobuf
+
+# Vision Processing
+pillow
+opencv-python
+einops
+timm
+
+# Utilities
+numpy
+pandas
+scipy
+scikit-learn
+
+# Monitoring and Logging
+tensorboard
+wandb
+tqdm
+
+# JSON and Data Processing
+jsonlines
+pycocotools
+lvis
+
+# Optional but Recommended
+ipywidgets
+matplotlib
+seaborn
+
+# For SAM Integration (if using)
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+
+# System Utilities
+psutil
+gpustat
