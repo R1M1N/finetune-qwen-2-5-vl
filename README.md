@@ -20,8 +20,8 @@ Fine-tuning **Qwen-3VL** vision-language models with memory-efficient lazy loadi
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/qwen-vl-finetune.git
-cd qwen-vl-finetune
+git clone https://github.com/R1M1N/finetune-qwen-2-5-vl.git
+cd finetune-qwen-2-5-vl
 
 # Create conda environment (recommended)
 conda create -n vlm python=3.10 -y
